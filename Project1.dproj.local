@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/11 11:29:51.000.883,=D:\Delphi\Projetos Delphi 11\Unit1.pas</Transaction>
+    <Transaction>2024/07/11 11:29:56.000.202,=D:\Delphi\Projetos Delphi 11\Unit2.pas</Transaction>
+    <Transaction>2024/07/11 11:32:20.000.681,D:\Delphi\Projetos Delphi 11\Unit2.pas=D:\Blog Delphi\projetos\Teste\Unit2.pas</Transaction>
+    <Transaction>2024/07/11 11:32:54.000.070,D:\Delphi\Projetos Delphi 11\Unit1.pas=D:\Blog Delphi\projetos\Teste\Unit1.pas</Transaction>
+    <Transaction>2024/07/11 11:32:54.000.070,D:\Delphi\Projetos Delphi 11\Unit1.dfm=D:\Blog Delphi\projetos\Teste\Unit1.dfm</Transaction>
+    <Transaction>2024/07/11 11:32:55.000.741,D:\Delphi\Projetos Delphi 11\Project1.dproj=D:\Blog Delphi\projetos\Teste\Project1.dproj</Transaction>
+    <Transaction>2024/07/11 11:34:54.000.334,D:\Blog Delphi\projetos\Teste\Unit2.pas=D:\Blog Delphi\projetos\Teste\untClassPerson.pas</Transaction>
+    <Transaction>2024/07/11 11:49:55.000.191,D:\Blog Delphi\projetos\Teste\Unit1.dfm=D:\Blog Delphi\projetos\Teste\untMain.dfm</Transaction>
+    <Transaction>2024/07/11 11:49:55.000.191,D:\Blog Delphi\projetos\Teste\Unit1.pas=D:\Blog Delphi\projetos\Teste\untMain.pas</Transaction>
+  </Transactions>
+</BorlandProject>
