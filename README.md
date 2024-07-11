@@ -1,4 +1,4 @@
-# Refatoracao
+# Code Refactoring / Refatoração de Código
 - Example of code refactoring in Delphi
 - Exemplo de refatoração de código em Delphi
 
